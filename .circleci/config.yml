@@ -15,7 +15,7 @@ workflows:
             - cypress/install
           record: true
           parallel: true
-          parallelism: 4
+          parallelism: 5
           executor: with-chrome
           browser: chrome
           post-steps:
