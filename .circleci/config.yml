@@ -13,6 +13,7 @@ workflows:
       - cypress/run:
           requires:
             - cypress/install
+          context: CYPRESS_RECORD_KEY
           record: true
           parallel: true
           parallelism: 5
