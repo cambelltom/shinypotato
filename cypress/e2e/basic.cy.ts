@@ -6,5 +6,4 @@ it('google test', function(){
         .type('automation step by step')
         .type('{enter}')
 
-
 })
