@@ -1,0 +1,24 @@
+{
+  "name": "shinypotato",
+  "version": "1.0.0",
+  "description": "shiny-potato",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cambelltom/shinypotato.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cambelltom/shinypotato/issues"
+  },
+  "homepage": "https://github.com/cambelltom/shinypotato#readme",
+  "dependencies": {
+    "cypress": "^10.0.2",
+    "typescript": "^4.7.3"
+  }
+}
